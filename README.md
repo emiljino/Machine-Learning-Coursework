@@ -1,3 +1,6 @@
+# Link to report: [Machine Learning CW.pdf](https://github.com/emiljino/Machine-Learning-Coursework/edit/main/README.md#:~:text=cw_hk20234.-,pdf,-mnist_reader.py)
+
+
 # Fashion-MNIST
 
 [![GitHub stars](https://img.shields.io/github/stars/zalandoresearch/fashion-mnist.svg?style=flat&label=Star)](https://github.com/zalandoresearch/fashion-mnist/)
