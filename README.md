@@ -1,4 +1,4 @@
-# Link to report: [Machine Learning CW.pdf](https://github.com/emiljino/Machine-Learning-Coursework/edit/main/README.md#:~:text=cw_hk20234.-,pdf,-mnist_reader.py)
+# Link to report: [Machine Learning CW.pdf](https://github.com/emiljino/Machine-Learning-Coursework/blob/main/cw_hk20234.pdf)
 
 
 # Fashion-MNIST
